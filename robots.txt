@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://mines.vercel.app/sitemap.xml
+Sitemap: https://mines-two-ecru.vercel.app/sitemap.xml

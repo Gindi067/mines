@@ -1,2 +1,0 @@
-# mines
-mines site
